@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+body { background:#000000 url(../img/di.gif) repeat;padding:0px; text-align:center; margin-top:0px; margin-left:0px; margin-right:0px; font-size:16px;line-height:30px;}
+.A_top_left{ float:left;width:150px; height:460px;z-index:999;position:absolute;top:0px;left:0px;background:url(topbg_left.png) no-repeat center!important;background-image:url(www.3875.com);FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='topbg_left.png');}
+.A_top_right{ float:right;width:150px;height:460px;z-index:9999;position:absolute;top:0px;right:0px;background:url(topbg_right.png) no-repeat center!important;background-image:url(www.3875.com);FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='topbg_right.png');}
+.A_top{ width:100%; margin:0px auto; padding:0px;position:relative; background:url(bg_top1.jpg) no-repeat top center;}
+.A_top_img{ width:100%; height:40px;background:url(topbg_1.png) repeat-x 0 0; _background:none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="topbg_1.png" ,sizingMethod="scale"); }
+.page{width:1070px;margin:0px auto;padding-top:25px; padding-bottom:25px;background:url(bgkk2_g.gif)  repeat;border-radius: 10px;}
+.mainA{ width:1020px; margin:0px auto; background:url(11558059_3.gif) repeat; border-radius: 10px; border:2px #5B0000 solid;}
+input,select {font-family:\5B8B\4F53,Arial Narrow,arial,serif;font-size:12px;line-height: 20px; text-align: left;}
+dd dt dl li ol ul form div {margin: 0; padding: 0; border: 0;}
+img {margin: 0;	padding: 0;	border: 0;background-position: center;}
+p{ margin:0; padding:0;}
+span{ margin:0; padding:0;}
+input {height:16px; font-size:12px; border:1px #DBCA9E solid;} 
+table input {height:20px; font-size:12px;}
+form{margin: 0; padding: 0; border: 0;}
+.mainA p{ width:90%; margin:auto;}
+.ali{ margin:0px auto; text-align:center;}
+.color_green{ color:#30FF00;}
+.color_red{ color:#FF0000;}
+.color_meih{ color:#FF0078;}
+.color_lv{ color:#00FF48;}
+.color_lan{color:#0070FB;}
+.color_lan2{color:#00FFAE;}
+.color_huang{ color:#FCFF00;}
+.color_huang2{ color:#FFFB8B;}
+.color_cheng{ color:#FF6000;}
+.color_zi{color:#9900E8;}
+.bot{ height:20px; line-height:10px; clear:both; font-size:5px;}
+.bot1{ height:10px;line-height:10px; clear:both;font-size:5px;}
+
+.color_lv2{ color:#54FF00;}
+.color_wihte{ color:#FFFFFF;}
+
+.font_o{font-style:oblique;}
+.fontst{ font-weight:bold;}
+.fon_hei{ font-family:"黑体", "微软简综艺", "汉仪细中圆简"}
+.font18{font-size:18px; line-height:40px;}
+.font20{ font-size:20px; line-height:40px;}
+.font24{ font-size:24px; line-height:45px;}
+.font28{ font-size:28px; line-height:45px;}
+.font30{font-size:30px; line-height:50px;}
+.font35{font-size:35px; line-height:59px;}
+.font55{font-size:60px; line-height:90px; height:90px;}
+.font45{font-size:45px; line-height:80px;}
+.font40{font-size:40px; line-height:60px;}
+
+.dv{ width:700px; margin:0px auto;}
+.dv2{ width:820px; margin:0px auto;}
+.tacenter {text-align: center;}
