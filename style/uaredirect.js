@@ -1,3 +1,3 @@
 // JavaScript Document
-document.write("<audio src=\"img/天然呆-后弦·《我知道你也很想念》.mp3\" autoplay=\"autoplay\"></audio>");
+document.write("<audio src=\"img/爱的故事上集-孙耀威.mp3\" autoplay=\"autoplay\"></audio>");
 
